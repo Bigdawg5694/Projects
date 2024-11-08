@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ball">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAAAABACAAAQAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Gameplay\Ball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paddle">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAgAAqEAAEAAAACAQEhAACAACAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Gameplay\Paddle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BallSpawner">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Gameplay\BallSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timer">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAACAAAAAAQAAgAAAAgAAAAIAAAAAAEAAAI=</HashCode>
+      <FileName>Assets\Scripts\Gameplay\Timer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameplayManager">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Gameplay\GameplayManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameInitializer">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Util\GameInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenUtils">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACECBAAQAAAAAAAAACBCAAAACAAAAQQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Util\ScreenUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConfigurationUtils">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAABAAAAAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Configuration\ConfigurationUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConfigurationData">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABACAAAAIAAAACAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Configuration\ConfigurationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HUD">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAACAAAAQAAAAAAAAAAAEAAAAEAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\Gameplay\HUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Ball">
+    <Position X="0.75" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAICAAAEAAAACABAAAAAaAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Gameplay\Ball.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="moveTimer" />
+      <Field Name="deathTimer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Paddle">
+    <Position X="0.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAiAEAEAAAIAAQEBgAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Gameplay\Paddle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="hud" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BallSpawner">
+    <Position X="7.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAIQCAQAAAAAAgAAAAACQAAAAABAAEAAEAAAAA=</HashCode>
+      <FileName>Assets\scripts\Gameplay\BallSpawner.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="spawnTimer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Timer">
+    <Position X="6.25" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAACAAAAAAQAAgAAAAgAAAAIIAAAAAEAAAI=</HashCode>
+      <FileName>Assets\scripts\Gameplay\Timer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameplayManager">
+    <Position X="13.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Gameplay\GameplayManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameInitializer">
+    <Position X="14" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\scripts\Util\GameInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenUtils">
+    <Position X="13.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACECBAAQAAAAAAAAACBCAAAACAAAAQQAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Util\ScreenUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConfigurationUtils">
+    <Position X="9.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ABAAABAAAAAAIQAAAQAAEQABAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Configuration\ConfigurationUtils.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="configurationData" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConfigurationData">
+    <Position X="9.75" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EAAAABACAAAAIAABASEAEQEBABAAACAAAAEAAAABAAA=</HashCode>
+      <FileName>Assets\scripts\Configuration\ConfigurationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HUD">
+    <Position X="4.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACCgAABAQAQAAAAAQAgAAAAAAAAEAAAIEAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Gameplay\HUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickupBall">
+    <Position X="1" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Gameplay\PickupBall.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="pickupBall" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BonusBall">
+    <Position X="4.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\scripts\Gameplay\BonusBall.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="bonusBall" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PickupEffect">
+    <Position X="3.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Gameplay\PickupEffect.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="pickupEffect" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SpeedupEffect">
+    <Position X="6.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Gameplay\SpeedupEffect.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="speedupEffect" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FreezerEffect">
+    <Position X="6.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\scripts\Gameplay\FreezerEffect.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="freezerEffect" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

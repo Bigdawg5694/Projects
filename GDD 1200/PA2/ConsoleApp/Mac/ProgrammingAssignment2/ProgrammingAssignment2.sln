@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingAssignment2", "ProgrammingAssignment2\ProgrammingAssignment2.csproj", "{D6F846D2-298B-4B0A-AB25-8FBA2DD4758E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingAssignment2Driver", "ProgrammingAssignment2Driver\ProgrammingAssignment2Driver.csproj", "{DDA51C69-7EA1-4DD9-B52D-0613BC696BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6F846D2-298B-4B0A-AB25-8FBA2DD4758E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F846D2-298B-4B0A-AB25-8FBA2DD4758E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F846D2-298B-4B0A-AB25-8FBA2DD4758E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F846D2-298B-4B0A-AB25-8FBA2DD4758E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA51C69-7EA1-4DD9-B52D-0613BC696BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA51C69-7EA1-4DD9-B52D-0613BC696BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA51C69-7EA1-4DD9-B52D-0613BC696BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA51C69-7EA1-4DD9-B52D-0613BC696BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DEE49ED-FDBE-4748-A286-25D34D8CBB4C}
+	EndGlobalSection
+EndGlobal

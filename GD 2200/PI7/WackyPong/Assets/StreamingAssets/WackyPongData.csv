@@ -1,0 +1,2 @@
+PaddleMoveUnitsPerSecond,BallImpulseForce,StandardPoints,StandardHits,BallLifetime,MinSpawnTime,MaxSpawnTime,BonusPoints,BonusHits,StandardPercent,BonusPercent,FreezePercent,SpeedupPercent
+10,5,1,1,5,5,10,2,2,60,20,10,10

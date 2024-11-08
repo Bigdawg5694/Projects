@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"wiki_data_internal",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"wiki_data_internal",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GradedExercise3\GradedExercise3.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="GradedExercise3Util">
+      <HintPath>GradedExercise3Util.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>..\GradedExercise3\UnityEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

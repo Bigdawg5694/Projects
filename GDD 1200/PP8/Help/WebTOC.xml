@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the [TODO: Add project name]" Url="html/8363d3fc-039d-43df-9a40-84bc66594aad.htm" />
+  <HelpTOCNode Id="17240caa-5de3-4823-ad98-d54c4bb337c5" Title="Version History" Url="html/8664ba05-b71c-4b9a-9e22-45a8c861bc16.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/f73706af-b4b7-451d-bc6e-326bdecf6c7b.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="d515421b-6e6a-4cab-80bc-83a730ec21c3" Title="PracticeProblem8" Url="html/a03bc0f5-2d5b-4d17-6775-f6f5e0719a58.htm">
+    <HelpTOCNode Id="0f8a909a-b940-4757-9a44-39d9866794fa" Title="Die Class" Url="html/3d8bbd8f-20f0-f3af-6769-59f01613fe21.htm">
+      <HelpTOCNode Id="8c984a31-9a15-4146-be57-4bcf4bcfff2a" Title="Die Constructor " Url="html/0d490e10-cad6-c2f2-0308-72a7fa938a7c.htm">
+        <HelpTOCNode Title="Die Constructor " Url="html/41e34d0d-8448-f996-8c15-faa2038d2702.htm" />
+        <HelpTOCNode Title="Die Constructor (Int32)" Url="html/6b0b977b-707d-605c-1b08-3617b0346a48.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b1070ec4-f019-4801-ac4d-9e4e05e8db66" Title="Die Properties" Url="html/a68f7f11-5a51-3201-8e1c-1341f7214c15.htm">
+        <HelpTOCNode Title="NumSides Property " Url="html/1447e61d-45af-8a76-2ec4-66a5c942bc3e.htm" />
+        <HelpTOCNode Title="TopSide Property " Url="html/41c8ebdb-244b-2420-1fcf-7ef4b5f517e7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c52294c9-61e9-4f4f-a3dd-290f53e1a905" Title="Die Methods" Url="html/87c7f418-5f82-6a87-17f4-65bcc6c47a81.htm">
+        <HelpTOCNode Title="Roll Method " Url="html/9ba23dfd-5325-5776-295e-0b319d827836.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

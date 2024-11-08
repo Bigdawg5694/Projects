@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the [TODO: Add project name]" Url="html/f3263855-9b67-46c1-8ed3-5de8899e877d.htm" />
+  <HelpTOCNode Id="93e9168a-14d6-4894-85ae-306a7a85bb7f" Title="Version History" Url="html/e4b41cbf-fa95-4173-83b9-19a177785e98.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/0b395462-55fb-4bf0-9610-7363296cc883.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="4e39d8e3-a2f3-4a16-bb8c-89ddb86dd391" Title="PracticeProblem9" Url="html/9da85035-d85e-7db1-64b3-da64f6c4ac68.htm">
+    <HelpTOCNode Id="2f2ebca8-9803-4736-af74-b5413d9f8d3c" Title="Card Class" Url="html/17587908-0de3-9e45-820b-eae22d124e7f.htm">
+      <HelpTOCNode Title="Card Constructor " Url="html/9654091d-65ec-dfd7-97bb-e1e2d9f015fa.htm" />
+      <HelpTOCNode Id="bcf95651-8477-4c97-9c3b-17ab3e8200e7" Title="Card Properties" Url="html/c4ad7ee7-285a-17c3-5f48-f0377d89360a.htm">
+        <HelpTOCNode Title="FaceUp Property " Url="html/c11c30d5-331b-57b1-cd84-c6585c3cb95d.htm" />
+        <HelpTOCNode Title="Rank Property " Url="html/f49e8a61-a7d7-8f23-c728-edfb21203618.htm" />
+        <HelpTOCNode Title="Suit Property " Url="html/69115aa7-473e-a346-1b86-4187cf246443.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4d56f17a-a585-46a9-9f7e-079b9cba29c0" Title="Card Methods" Url="html/390b3a6a-482e-3008-5ba7-e5abdedc1bbb.htm">
+        <HelpTOCNode Title="FlipOver Method " Url="html/29bbc61a-e5ae-6810-d624-5f71c8eb960d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6bf0e3f8-f4dc-4c0a-8440-1b81c157615b" Title="Deck Class" Url="html/c7e455fb-2b1b-5ac0-ccae-0a7010b34f6b.htm">
+      <HelpTOCNode Title="Deck Constructor " Url="html/ac7c78dc-c268-d694-5366-317869399445.htm" />
+      <HelpTOCNode Id="6a3b057f-a209-4f52-afe8-1c216326ceb5" Title="Deck Properties" Url="html/d5bbb00e-3a2c-2f98-3a8b-7ce1c0870bed.htm">
+        <HelpTOCNode Title="Empty Property " Url="html/24ecbba1-bd1d-6a51-2041-6277619d4de8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1cfb1d4b-3c0d-4357-bdbb-5ca9b1385566" Title="Deck Methods" Url="html/6955014a-7d75-a569-4033-4d25f6fd0ca1.htm">
+        <HelpTOCNode Title="Cut Method " Url="html/a088f7df-2ca9-f91c-8ff0-f02128ba5e03.htm" />
+        <HelpTOCNode Title="Print Method " Url="html/0683dbb3-ab22-9f82-99cd-6cc2964c110e.htm" />
+        <HelpTOCNode Title="Shuffle Method " Url="html/fee1878d-b681-4219-03f3-fd703cc63e73.htm" />
+        <HelpTOCNode Title="TakeTopCard Method " Url="html/82e6cf14-e6fb-d846-759c-8ef9ba6f3c2f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Rank Enumeration" Url="html/5865ad42-caf4-a6a3-0842-3b3e0c825a36.htm" />
+    <HelpTOCNode Title="Suit Enumeration" Url="html/7d0f0c45-1f58-4b35-1d5c-677a669ecd7e.htm" />
+  </HelpTOCNode>
+</HelpTOC>

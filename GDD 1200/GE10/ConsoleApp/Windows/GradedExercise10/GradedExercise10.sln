@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradedExercise10", "GradedExercise10\GradedExercise10.csproj", "{03F4134C-342A-4D68-A0CB-E51380DF0B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradedExercise10Driver", "GradedExercise10Driver\GradedExercise10Driver.csproj", "{BE9099CF-B8E6-4EB6-B7E1-F3103EABF7E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F4134C-342A-4D68-A0CB-E51380DF0B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F4134C-342A-4D68-A0CB-E51380DF0B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F4134C-342A-4D68-A0CB-E51380DF0B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F4134C-342A-4D68-A0CB-E51380DF0B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9099CF-B8E6-4EB6-B7E1-F3103EABF7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9099CF-B8E6-4EB6-B7E1-F3103EABF7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9099CF-B8E6-4EB6-B7E1-F3103EABF7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9099CF-B8E6-4EB6-B7E1-F3103EABF7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52118AF0-FB5A-4ECC-987F-3E68BB2FA719}
+	EndGlobalSection
+EndGlobal

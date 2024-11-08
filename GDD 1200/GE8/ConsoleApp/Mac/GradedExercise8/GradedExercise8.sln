@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradedExercise8", "GradedExercise8\GradedExercise8.csproj", "{3F658DD5-13F3-400F-A6EC-9E8DEDFDB92C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradedExercise8Driver", "GradedExercise8Driver\GradedExercise8Driver.csproj", "{D64A6E99-7241-442F-A6D3-26C39451CA7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F658DD5-13F3-400F-A6EC-9E8DEDFDB92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F658DD5-13F3-400F-A6EC-9E8DEDFDB92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F658DD5-13F3-400F-A6EC-9E8DEDFDB92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F658DD5-13F3-400F-A6EC-9E8DEDFDB92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D64A6E99-7241-442F-A6D3-26C39451CA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64A6E99-7241-442F-A6D3-26C39451CA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64A6E99-7241-442F-A6D3-26C39451CA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64A6E99-7241-442F-A6D3-26C39451CA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0733119E-C41C-4BA7-A618-3BA1A17BABA5}
+	EndGlobalSection
+EndGlobal

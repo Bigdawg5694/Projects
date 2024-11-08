@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Die class">
+    <HelpKINode Title="Die Class" Url="html/3d8bbd8f-20f0-f3af-6769-59f01613fe21.htm" />
+    <HelpKINode Title="constructor" Url="html/0d490e10-cad6-c2f2-0308-72a7fa938a7c.htm" />
+    <HelpKINode Title="methods" Url="html/87c7f418-5f82-6a87-17f4-65bcc6c47a81.htm" />
+    <HelpKINode Title="properties" Url="html/a68f7f11-5a51-3201-8e1c-1341f7214c15.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Die.Die constructor" Url="html/0d490e10-cad6-c2f2-0308-72a7fa938a7c.htm" />
+  <HelpKINode Title="Die.NumSides property" Url="html/1447e61d-45af-8a76-2ec4-66a5c942bc3e.htm" />
+  <HelpKINode Title="Die.Roll method" Url="html/9ba23dfd-5325-5776-295e-0b319d827836.htm" />
+  <HelpKINode Title="Die.TopSide property" Url="html/41c8ebdb-244b-2420-1fcf-7ef4b5f517e7.htm" />
+  <HelpKINode Title="NumSides property" Url="html/1447e61d-45af-8a76-2ec4-66a5c942bc3e.htm" />
+  <HelpKINode Title="PracticeProblem8 namespace" Url="html/a03bc0f5-2d5b-4d17-6775-f6f5e0719a58.htm" />
+  <HelpKINode Title="PracticeProblem8.Die class" Url="html/3d8bbd8f-20f0-f3af-6769-59f01613fe21.htm" />
+  <HelpKINode Title="Roll method" Url="html/9ba23dfd-5325-5776-295e-0b319d827836.htm" />
+  <HelpKINode Title="TopSide property" Url="html/41c8ebdb-244b-2420-1fcf-7ef4b5f517e7.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/f73706af-b4b7-451d-bc6e-326bdecf6c7b.htm" />
+    <HelpKINode Title="history" Url="html/8664ba05-b71c-4b9a-9e22-45a8c861bc16.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/8363d3fc-039d-43df-9a40-84bc66594aad.htm" />
+</HelpKI>

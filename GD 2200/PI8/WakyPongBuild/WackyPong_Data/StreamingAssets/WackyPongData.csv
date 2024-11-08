@@ -1,0 +1,14 @@
+PaddleMoveUnitsPerSecond,10
+BallImpulseForce,5
+StandardPoints,1
+StandardHits,1
+BallLifetime,5
+MinSpawnTime,5
+MaxSpawnTime,10
+BonusPoints,2
+BonusHits,2
+StandardPercent,60
+BonusPercent,20
+FreezePercent,10
+SpeedupPercent,10
+FreezeDuration,2

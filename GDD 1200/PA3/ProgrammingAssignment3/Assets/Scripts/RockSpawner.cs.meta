@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 695c082822b1c5b46a4253e1bfd58e3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabRock: {fileID: 191201179043610679, guid: c46231e9f893d824983326b2fd4d12d1, type: 3}
+  - rockSprite0: {fileID: 21300000, guid: 3b48473af46f11b42a060b4c7ecdc3fd, type: 3}
+  - rockSprite1: {fileID: 21300000, guid: 7563b21f3bc95cc458d52bc436997ffa, type: 3}
+  - rockSprite2: {fileID: 21300000, guid: c6bd8b7ebebc73a47b1ca83037b7347c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
